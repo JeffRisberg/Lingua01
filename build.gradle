@@ -25,7 +25,7 @@ dependencies {
   compile 'com.googlecode.json-simple:json-simple:1.1.1'
   compile 'com.google.guava:guava:28.2-jre'
 
-  implementation 'com.github.pemistahl:lingua:1.0.3'
+  implementation 'com.github.pemistahl:lingua:1.0.2'
 
   testCompile group: 'junit', name: 'junit', version: junitVersion
 }
